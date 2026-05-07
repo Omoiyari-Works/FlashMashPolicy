@@ -125,7 +125,11 @@ You may stop using the App at any time. We reserve the right to suspend or termi
 
 ## 12. Governing Law
 
-These Terms are governed by and construed in accordance with **applicable international legal standards and the laws of Japan**, without regard to its conflict of law provisions. We are committed to complying with applicable consumer protection and privacy regulations across jurisdictions. Any disputes arising under these Terms shall be subject to the jurisdiction of the courts of Japan, to the extent permitted by applicable local law.
+These Terms are governed by and construed in accordance with the laws of **Japan**, without regard to its conflict of law provisions. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Japan.
+
+While Japanese law governs these Terms, we are committed to respecting internationally recognized privacy standards in the operation of the App.
+
+Where required by local law, additional or supplemental terms may apply to users in specific regions. Any such regional terms will be made available separately and will take precedence over this section to the extent of any conflict.
 
 ---
 
