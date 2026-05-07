@@ -17,9 +17,9 @@ FlashMash is a music production application that allows you to create and edit a
 - Audio clip management (add, delete, split, move, copy, paste, crop)
 - Audio effects processing (time stretch, pitch shift, effects slots, loop settings)
 - Track and project management
-- Optional cloud synchronization of project metadata via Firebase Firestore
+- Optional background collection of project metadata for diagnostic and development purposes via Firebase Firestore
 
-**Audio files themselves are never uploaded to our servers.** Cloud sync stores only structural metadata such as track configuration, clip parameters, BPM, and project duration.
+**Audio files themselves are never uploaded to our servers.** The App periodically records limited structural metadata — such as track configuration, clip parameters, BPM, and project duration — solely for the purpose of understanding usage patterns and improving the App. **This data does not constitute a cloud save and cannot be used to restore your projects.**
 
 ---
 
@@ -35,9 +35,9 @@ The App is intended for users who are **13 years of age or older**. By using the
 
 You retain full ownership of all audio files, recordings, and creative works you produce using the App. We do not claim any intellectual property rights over your content.
 
-### 4.2 Limited License for Cloud Services
+### 4.2 Limited License for Diagnostic Data
 
-When you enable cloud synchronization, you grant Omoiyari-Works a limited, non-exclusive, royalty-free license to store and transmit your project metadata solely for the purpose of providing the cloud sync service. This license does not extend to your audio files.
+When you consent to data collection, you grant Omoiyari-Works a limited, non-exclusive, royalty-free license to store and transmit your project metadata solely for the purposes of app improvement and diagnostics as described in our Privacy Policy. This license does not extend to your audio files, and the stored metadata cannot be used to reconstruct your projects.
 
 ### 4.3 Our Intellectual Property
 
@@ -61,11 +61,11 @@ Violation of these prohibitions may result in termination of your access to the 
 
 ---
 
-## 6. Cloud Services
+## 6. Diagnostic Data Collection
 
-Cloud synchronization features are optional and subject to your consent as described in our [Privacy Policy](../privacy/). By enabling cloud features, you also agree to Google's Terms of Service for Firebase, as the App uses Firebase Firestore for cloud data storage.
+Data collection features are optional and subject to your consent as described in our [Privacy Policy](../privacy/). By enabling data collection, you also agree to Google's Terms of Service for Firebase, as the App uses Firebase Firestore for cloud data storage.
 
-We do not guarantee the continuous availability, reliability, or integrity of cloud-synced data. **You are responsible for maintaining local backups of your projects.**
+The metadata stored is used solely for diagnostic and development purposes. **It does not function as a project backup and cannot be used to restore your work.** We do not guarantee the continuous availability, reliability, or integrity of this data.
 
 ---
 
@@ -105,7 +105,7 @@ We reserve the right to:
 - **Suspend or discontinue the cloud synchronization service**, in whole or in part, with or without notice
 - **Discontinue the App entirely**, with reasonable advance notice where practicable
 
-We are not liable to you or any third party for any modification, suspension, or discontinuation of the App or its services. **We strongly recommend maintaining local copies of your projects at all times.**
+We are not liable to you or any third party for any modification, suspension, or discontinuation of the App or its services.
 
 ---
 
@@ -125,7 +125,7 @@ You may stop using the App at any time. We reserve the right to suspend or termi
 
 ## 12. Governing Law
 
-These Terms are governed by and construed in accordance with the laws of **Japan**, without regard to its conflict of law provisions. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Japan.
+These Terms are governed by and construed in accordance with **applicable international legal standards and the laws of Japan**, without regard to its conflict of law provisions. We are committed to complying with applicable consumer protection and privacy regulations across jurisdictions. Any disputes arising under these Terms shall be subject to the jurisdiction of the courts of Japan, to the extent permitted by applicable local law.
 
 ---
 
