@@ -63,7 +63,7 @@ Violation of these prohibitions may result in termination of your access to the 
 
 ## 6. Diagnostic Data Collection
 
-Data collection features are optional and subject to your consent as described in our [Privacy Policy](../privacy/). By enabling data collection, you also agree to Google's Terms of Service for Firebase, as the App uses Firebase Firestore for cloud data storage.
+Diagnostic data collection features are optional and subject to your consent as described in our [Privacy Policy](../privacy/). By enabling data collection, you also agree to the [Google Terms of Service](https://policies.google.com/terms), the [Firebase Terms of Service](https://firebase.google.com/terms), and the [Google Privacy Policy](https://policies.google.com/privacy), as the App uses Firebase Firestore for data storage.
 
 The metadata stored is used solely for diagnostic and development purposes. **It does not function as a project backup and cannot be used to restore your work.** We do not guarantee the continuous availability, reliability, or integrity of this data.
 
@@ -102,7 +102,7 @@ In any case, our total liability to you for any claims arising under these Terms
 We reserve the right to:
 
 - Add, modify, or remove features of the App at any time
-- **Suspend or discontinue the cloud synchronization service**, in whole or in part, with or without notice
+- **Suspend or discontinue the diagnostic data collection service**, in whole or in part, with or without notice
 - **Discontinue the App entirely**, with reasonable advance notice where practicable
 
 We are not liable to you or any third party for any modification, suspension, or discontinuation of the App or its services.
