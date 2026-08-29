@@ -64,4 +64,12 @@ Email: omoiyari-works@gmail.com
 
 ---
 
+## 9. Authoritative Text and Record-Keeping
+
+**Sole authoritative text.** This page is the sole authoritative text of the EU Declaration of Conformity for the product identified in Section 1, and its publication here satisfies the publication obligation under CRA Article 28. No other document is authoritative; in particular, any copy that may have existed elsewhere (including in the FlashMashApp source repository) has been superseded by, and removed in favour of, this page.
+
+**Retention of technical documentation.** The ten-year retention obligation for technical documentation under CRA Article 31 is satisfied through the version-control (git commit) history of this repository, which records this declaration together with the full history of its changes. GitHub retains repository history indefinitely by default, so no separate archival process is maintained for this purpose.
+
+---
+
 *Effective date: 2026-08-28*
