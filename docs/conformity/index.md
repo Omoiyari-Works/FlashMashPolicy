@@ -55,7 +55,7 @@ None. As stated in Section 5, the self-assessment procedure (Module A) applies, 
 - **Conformity assessment procedure:** Self-assessment (Module A)
 - **Signed by:** @agrexgh
 - **Date of issue:** 2026-08-28 (the date this page was published)
-- **Place of issue:** Not specified, as this declaration is published online and no physical place of issue has been designated.
+- **Place of issue:** Not specified, as this declaration is published online and no physical place of issue has been designated. If a competent authority formally requests this information, we will provide it directly to that authority through the contact channel below, rather than publishing it on this page.
 
 For questions or requests regarding this declaration, please contact:
 
@@ -72,4 +72,16 @@ Email: omoiyari-works@gmail.com
 
 ---
 
-*Effective date: 2026-08-28*
+## 10. Revision of This Declaration
+
+This declaration is revised in place, rather than superseded by a separate document, when necessary. This section describes when and how a revision takes place.
+
+**Trigger for revision.** As stated in Section 1, this declaration continues to apply to later minor and patch updates unless a significant change to the security design occurs. In particular, we revisit this declaration whenever a change matches one of the reassessment triggers listed in the FlashMashApp source repository's `docs/conformity-assessment-classification.md` (for example, adding identity/password management, VPN/firewall-like, or IoT/smart-home integration functionality), or whenever we otherwise determine that a design change could affect the conformity assessment route in Section 5 or the applicability of harmonised standards in Section 6.
+
+**Revision procedure.** When such a trigger occurs, we first re-evaluate the conformity assessment classification. If the conclusion in Section 5 or Section 6 needs to change as a result, we update this page directly and update the "Date of issue" in Section 8 to the date of revision. We do not publish a separate declaration for a new product version.
+
+**Record of past versions.** As stated in Section 9, the git commit history of this repository retains the full history of this declaration, including every prior revision and the period each version was in effect. There is no separate version list on this page; the commit history for this file is the authoritative record.
+
+---
+
+*Effective date: 2026-08-29*
