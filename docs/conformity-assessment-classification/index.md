@@ -29,7 +29,7 @@ Annex III important product classes I and II cover categories such as the follow
 | Use of Firebase Auth / Firestore | Limited to isolating user data via anonymous authentication, in-app data synchronization of project structure, crash collection, and survey collection. It is not a service that provides authentication, identity management, or password management to third parties |
 | Network functionality | Limited to the `INTERNET` permission (for HTTPS communication with Firebase). No peer-to-peer communication, VPN, firewall, or network traffic monitoring functionality is implemented |
 | Industrial, IoT, or critical-infrastructure use | None. No functionality for industrial control systems, IoT device management, smart home integration, or similar use cases is implemented |
-| Distribution | Planned for distribution through Google Play; currently distributed through GitHub Releases |
+| Distribution | Distributed through Google Play (open testing track, available worldwide) and through GitHub Releases |
 
 ---
 
@@ -61,4 +61,4 @@ Email: omoiyari-works@gmail.com
 
 ---
 
-*Effective date: 2026-08-29*
+*Effective date: 2026-08-29 (Distribution row updated 2026-08-31; classification conclusion unchanged)*
